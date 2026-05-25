@@ -1,0 +1,6 @@
+your-provider-name/zaz
+├── SKILL.md
+├── references/
+│   └── your-docs.md
+└── scripts/
+    └── your-script.sh
